@@ -1,0 +1,13 @@
+name: "Basic Emoji Words 1"
+description: "Learn your first two emoji words!"
+
+Words:
+  - Word: "🅰️"
+    Meaning: "A"
+
+  - Word: "🅱️"
+    Meaning: "B"
+
+Sentences:
+  - Sentence: "🅰️🅱️."
+    meaning: "A and B."
