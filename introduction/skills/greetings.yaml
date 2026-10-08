@@ -1,0 +1,28 @@
+Skill:
+  Name: Greetings
+  Id: bdfd1368-b2b1-4f0d-87dd-8552129072f5
+
+New words: 
+  - Word: ratón
+    Translation: mouse
+    Images:
+      - mouse1
+      - mouse2
+      - mouse3
+
+Phrases:
+  - Phrase: ¡Buenos días!
+    Alternative versions:
+      - Buenos días, soy Cecilia.
+    Translation: Good morning!
+    Alternative translations:
+      - Good day!
+
+Mini-dictionary:
+  English:
+    - morning:
+      - mañana
+  Spanish:
+    - pasa:
+      - happens
+      - passes
